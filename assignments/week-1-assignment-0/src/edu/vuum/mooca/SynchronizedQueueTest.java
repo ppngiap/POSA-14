@@ -1,5 +1,5 @@
 package edu.vuum.mooca;
-import static org.junit.Assert.*;
+import  static org.junit.Assert.*;
 
 import java.util.concurrent.ArrayBlockingQueue;
 
